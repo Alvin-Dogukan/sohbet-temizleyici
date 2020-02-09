@@ -1,2 +1,0 @@
-# sohbet-temizleyici
-Sohbet Temizleyici
